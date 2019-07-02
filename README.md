@@ -37,4 +37,4 @@ Vue.use(NoticeBar)
 
 ## Demo
 
-[https://github.com/Chance722/vue-simple-noticebar](https://github.com/Chance722/vue-simple-noticebar)
+[https://github.com/Chance722/vue-simple-noticebar-demo](https://github.com/Chance722/vue-simple-noticebar-demo)
