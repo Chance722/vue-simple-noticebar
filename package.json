@@ -1,6 +1,6 @@
 {
   "name": "vue-simple-noticebar",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A simple noticebar component for vue application.",
   "main": "dist/index.js",
   "author": "chance722",
